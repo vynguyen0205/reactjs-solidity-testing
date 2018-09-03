@@ -7,7 +7,7 @@ An demo project for Solidity smart contracts and how to use ReactJs to interact 
 
 You will need to have some Ether on the Rinkby testnet and install Metamask in Chrome or Firefox to use this project.
 - Get free Ether on Rinkby testnet here [https://faucet.rinkeby.io/](https://faucet.rinkeby.io/).
-- Get Matamask here [https://metamask.io/](https://metamask.io/).
+- Get Metamask here [https://metamask.io/](https://metamask.io/).
 
 # Demo
 Check out this link [https://ethereum-app-vynguyen0205.herokuapp.com/](https://ethereum-app-vynguyen0205.herokuapp.com/) for more information.
